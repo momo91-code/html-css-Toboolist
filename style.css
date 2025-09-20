@@ -115,10 +115,21 @@ ul{
 
 .verde{
     color:green;
+    border-radius: 100%;
+    border:solid, 1px;
+    border-color:green;
+    padding-left:3px;
+    padding-right: 3px;
 }
 
 .rosso{
     color:red;
+    border-radius: 100%;
+    border:solid, 1px;
+    border-color:red;
+    padding-left:3px;
+    padding-right: 3px;
+
 }
 
 li{
